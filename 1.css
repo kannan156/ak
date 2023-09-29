@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    margin-top: 5cm;
+    margin-left: 13cm;
+    
+}
+h1{
+    
+  color: red;
+  font-style: italic;
+
+}
+div{
+   
+    color: rgb(247, 247, 4);
+    
+}
+button{
+    color: blue;
+    background-color: rosybrown;
+}
